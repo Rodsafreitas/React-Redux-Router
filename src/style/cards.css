@@ -1,0 +1,37 @@
+body{
+    background-color: #EAEBEC;
+    margin: 2%;
+    font-family: roboto;
+}
+
+.card{
+    width: 100%;
+    margin-left: 5%;
+}
+.info{
+    background-color: #FFF;
+    width: 79%;
+    padding: 1%;
+}
+.titleInformation{
+    margin-left: 25%;
+}
+.list-group-item{
+    padding-right: 130px;
+}
+.information hr{
+    width: 70%;
+    border-color: rgb(209, 221, 149);
+    margin-right: 30%;
+    border-width: 1px;
+}
+.title{
+    width: 100%;
+    margin-left:10%;
+}
+.coins{
+    width: 79%;
+}
+.information p, .list-group-item{
+    font-size: 18px;
+}
