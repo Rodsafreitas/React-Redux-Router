@@ -12,7 +12,7 @@ const Routes = () => {
             <div>
                     <Header />
 
-                    <Switch basename="">
+                    <Switch>
                         <Route path='/' component={Home} exact/>                     
                         <Route path='*' component={Home} />                        
                     </Switch>               
